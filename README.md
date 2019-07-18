@@ -2,7 +2,7 @@
 
 ## Kotlin
 
-- _(in progress)_ [Kotlin for Android Developers](https://antonioleiva.com/online-course/) (course + book) _by Antonio Leiva_
+- [Kotlin for Android Developers](https://antonioleiva.com/online-course/) (course + book) _by Antonio Leiva_
 - _(in progress)_ [JetBrainsAcademy - Kotlin Developer](https://hyperskill.org/)
 - [Kotlin Bootcamp for Programmers](https://eu.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011), _Udacity_
 - [Kotlin For Android Developers](https://eu.udacity.com/course/kotlin-for-android-developers--ud888), _Udacity_
